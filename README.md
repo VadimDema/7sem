@@ -63,5 +63,15 @@ desktop-приложений - WPF
 
 http://192.168.1.20:3000/ gogs 
 ![image](https://user-images.githubusercontent.com/90608445/195325010-28be9928-9773-4eb1-83e3-735262661580.png)
+=ЕСЛИ(J6="часа";I6*60;I6)
+
+ВПР
+![image](https://user-images.githubusercontent.com/90608445/195329790-915a95e1-c543-49b4-bcdb-d6d26c1436f7.png)
+Таблица для ВПР:
+![image](https://user-images.githubusercontent.com/90608445/195332898-747e8f5c-2b16-4219-af14-b37e5f5580cb.png)
+=ВПР(Q2;$N$1:$O$4;2; 0)
+
+Переход на новую строку
+![image](https://user-images.githubusercontent.com/90608445/195335771-998c74ff-eec5-40da-9bd2-8a6f6bdb0b3c.png)
 
 
