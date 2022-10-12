@@ -62,5 +62,6 @@ desktop-приложений - WPF
 Умение работать с readme.md
 
 http://192.168.1.20:3000/ gogs 
+![image](https://user-images.githubusercontent.com/90608445/195325010-28be9928-9773-4eb1-83e3-735262661580.png)
 
 
