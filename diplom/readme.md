@@ -106,3 +106,7 @@ SEO-расширение.
 - полное отсутствие сторонних расширений и плагинов; 
 - для правильного процесса работы всех имеющихся расширений и модулей ну
 жна тонкая настройка программного обеспечения.
+![image](https://user-images.githubusercontent.com/90608445/209635435-366ed711-c06d-42ac-b9d2-aebc411f4e64.png)
+![image](https://user-images.githubusercontent.com/90608445/209635458-99ca6d3e-a505-41b3-961d-3358e9beac50.png)
+![image](https://user-images.githubusercontent.com/90608445/209635481-c4e8b817-02ec-469d-95c0-7b870837c8f4.png)
+![image](https://user-images.githubusercontent.com/90608445/209635505-e5982858-1c2f-4895-a118-f0e471b0734b.png)
